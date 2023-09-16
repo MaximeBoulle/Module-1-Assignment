@@ -1,0 +1,15 @@
+{
+  "name": "class1assignment",
+  "version": "1.0.0",
+  "description": "Our project is a Business website for a company called 'Ed's Shoes'. This brand make sportwear shoes for young people (18-30). The logo and the colors are gived by the company. The website is composed by 5 pages: Home, About, Products, Contact and a page for the shopping cart. The website is made with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
